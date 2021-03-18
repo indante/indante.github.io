@@ -1,0 +1,45 @@
+html {
+    font-family: 'Inconsolata', monospace, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #525252;
+  }
+  
+  .page-wrapper {
+      max-width: 60rem;
+      margin: 0 auto;
+      margin-top: 3rem;
+      padding: 2rem;
+  }
+
+  .greeting {
+      font-size: 2rem;
+  }
+
+  .myself {
+      font-size: 2rem;
+  }
+
+  .describe {
+      font-size: 1.6rem;
+  }
+
+  strong {
+      color: #20599B;
+  }
+
+  .divider {
+    margin: 3rem 0;
+    height: 1px;
+    border: 0;
+    background-color: #ccc;
+  }
+
+  .external-link {
+    color: #408bde;
+    font-size: 1.3rem;
+  }
+
+  .external-link:hover,
+  .external-link:focus {
+    color: #20599B;
+    outline: none;
+  }
